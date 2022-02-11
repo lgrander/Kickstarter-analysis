@@ -6,7 +6,7 @@ Overview of Project
 Analyze the success of crowdfunding for plays through kickstarts biased on the launch date of the fundraiser and the goal of the fundraiser. 
 
 
-###Purpose
+Purpose
 To use Kickstarter data to select launch dates and goals for future projects that will lead to the most success. The analysis can also be used to advise future clients on the parameter of their Kickstarter and what is most likely to lead to their success in funding their play. In what month are campaigns most successful? What campaign goals lead to the most success?
 
 
