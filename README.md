@@ -13,7 +13,7 @@ Image 1 creates a visual depicting the percentage of success, failure and cancel
 
 Image 1
 
-
+"C:\Users\david\OneDrive\Documents\Laura Documents\Rice Data Analytics Course\Crowdfunding Analysis subfolder\Resources\Outcomes Based on Goal Correction.png"
 
 
 
@@ -28,7 +28,7 @@ Image 2 creates a visual depicting the count of success, failure and cancelation
 
 
 Imaged 2
-
+"C:\Users\david\OneDrive\Documents\Laura Documents\Rice Data Analytics Course\Crowdfunding Analysis subfolder\Resources\Theater_Outcomes_vs_Launch.png"
 
 Challenges and Difficulties Encountered
 Challenges encountered would be formatting the visualization so that it communicated the data concisely without implying additional parameters.
