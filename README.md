@@ -19,7 +19,7 @@ Image 1 creates a visual depicting the percentage of success, failure and cancel
 
 Image 1
 
-![Outcomes Based on Goal Correction](https://github.com/lgrander/Kickstarter-analysis/blob/Outcomes Based on Goal Correction.png?raw=true)
+![Outcomes Based on Goal Correction](https://github.com/lgrander/Kickstarter-analysis/blob/main/Outcomes Based on Goal Correction.png?raw=true)
 
 "C:\Users\david\OneDrive\Documents\Laura Documents\Rice Data Analytics Course\Crowdfunding Analysis subfolder\Resources\Outcomes Based on Goal Correction.png"
 
