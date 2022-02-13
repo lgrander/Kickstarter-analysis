@@ -1,7 +1,7 @@
-Kickstarting with Excel
+# Kickstarting with Excel
 
 
-Overview of Project
+## Overview of Project
 
 Analyze the success of crowdfunding for plays through kickstarts biased on the launch date of the fundraiser and the goal of the fundraiser. 
 
